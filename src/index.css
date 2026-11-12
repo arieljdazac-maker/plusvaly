@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #0b172a;
+    color: #f1f5f9;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+/* Custom smooth transitions and animations */
+.text-accent-lime {
+  color: #c8e626;
+}
+
+.bg-accent-lime {
+  background-color: #c8e626;
+}
+
+.border-accent-lime {
+  border-color: #c8e626;
+}
+
+/* Custom glow effect */
+.glow-lime {
+  box-shadow: 0 0 25px -5px rgba(200, 230, 38, 0.35);
+}

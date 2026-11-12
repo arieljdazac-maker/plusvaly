@@ -1,0 +1,8 @@
+{
+  "name": "Plusvaly | Diseño y Construcción",
+  "description": "Estudio de arquitectura y constructora en Bolivia: diseño arquitectónico completo, BIM e ingeniería de todas las especialidades antes de obra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
